@@ -17,3 +17,6 @@ h1 {
 header{
     background-color: blue;
 }
+h1 h2 {
+    font-family: "Times New Roman", serif;
+}
